@@ -13,6 +13,8 @@ beautifull Soup : `pip3 install beautifulsoup4`<br><br>
 
 ### Requests will allow you to send HTTP/1.1 requests using Python. You can install requests library using following code in your terminal in Linux.
 
-pip3 install requests
+pip3 install requests<br>
 
+This is link for flipkart:"https://www.flipkart.com/search?q=apple&sid=tyy%2C4io&as=on&as-show=on&otracker=AS_QueryStore_OrganicAutoSuggest_0_5&otracker1=&page".<br>
 After finishing installation process above, you can run the tasks, using python3 imdb.py
+
